@@ -1,3 +1,3 @@
 ﻿Public Class Training
-    'gdfgdsdhjfkdjhflasdfhlksdhfkasdhjdfsa
+    'new material stuff that i did
 End Class
