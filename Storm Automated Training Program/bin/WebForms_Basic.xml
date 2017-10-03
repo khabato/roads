@@ -37,9 +37,54 @@ Storm Automated Training Program
  Returns the Asp log object.
  </summary>
 </member>
+<member name="F:Storm_Automated_Training_Program._Default._CreateUserWizard1">
+<summary>
+CreateUserWizard1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Storm_Automated_Training_Program._Default._Login1">
+<summary>
+Login1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Storm_Automated_Training_Program._Default._LoginStatus1">
+<summary>
+LoginStatus1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Storm_Automated_Training_Program.Login._Login1">
+<summary>
+Login1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
 <member name="F:Storm_Automated_Training_Program.SiteMaster._MainContent">
 <summary>
 MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:Storm_Automated_Training_Program.SiteMaster._LoginStatus1">
+<summary>
+LoginStatus1 control.
 </summary>
 <remarks>
 Auto-generated field.

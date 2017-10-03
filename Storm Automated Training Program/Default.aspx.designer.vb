@@ -12,4 +12,31 @@ Option Explicit On
 
 
 Partial Public Class _Default
+    
+    '''<summary>
+    '''CreateUserWizard1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents CreateUserWizard1 As Global.System.Web.UI.WebControls.CreateUserWizard
+    
+    '''<summary>
+    '''Login1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents Login1 As Global.System.Web.UI.WebControls.Login
+    
+    '''<summary>
+    '''LoginStatus1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents LoginStatus1 As Global.System.Web.UI.WebControls.LoginStatus
 End Class

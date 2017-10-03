@@ -12,13 +12,31 @@ Option Explicit On
 
 
 Partial Public Class SiteMaster
-
-	'''<summary>
-	'''MainContent control.
-	'''</summary>
-	'''<remarks>
-	'''Auto-generated field.
-	'''To modify move field declaration from designer file to code-behind file.
-	'''</remarks>
-	Protected WithEvents MainContent As Global.System.Web.UI.WebControls.ContentPlaceHolder
+    
+    '''<summary>
+    '''MainContent control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents MainContent As Global.System.Web.UI.WebControls.ContentPlaceHolder
+    
+    '''<summary>
+    '''LoginStatus1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents LoginStatus1 As Global.System.Web.UI.WebControls.LoginStatus
+    
+    '''<summary>
+    '''LoginView1 control.
+    '''</summary>
+    '''<remarks>
+    '''Auto-generated field.
+    '''To modify move field declaration from designer file to code-behind file.
+    '''</remarks>
+    Protected WithEvents LoginView1 As Global.System.Web.UI.WebControls.LoginView
 End Class
