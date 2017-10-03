@@ -44,4 +44,19 @@ Public Class Exam
 
 
     End Sub
-End Class
+
+    Public Sub RemoveExam(examID)
+        Dim testexamID As Integer = examID
+        Dim testconnection As SqlConnection = Connection.getConnection()
+        Dim removeExam As String = "DELETE FROM [dbo].[Exam] WHERE ([Examid]) = (" & testexamID & ")"
+        testconnection.Open()
+        Dim command As New SqlCommand(removeExam, testconnection)
+        command.ExecuteNonQuery()
+
+    End Sub
+
+    Public Sub getExam()
+        Dim examID As Integer
+        Dim testconnection As SqlConnection = Connection.getConnection()
+    End Sub
+    End Class
